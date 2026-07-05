@@ -1,0 +1,6 @@
+{
+  "name": "ল্যাব রিপোর্ট কভার জেনারেটর",
+  "description": "রাজশাহী পলিটেকনিক ইন্সটিটিউটের জন্য একটি কাস্টমাইজযোগ্য ল্যাব রিপোর্ট কভার পেজ জেনারেটর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
